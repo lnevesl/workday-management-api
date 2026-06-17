@@ -15,4 +15,6 @@ public class CreateDayWorkRequest {
     private String date;
     private String description;
     private Double amountDue;
+
+
 }
